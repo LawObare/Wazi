@@ -36,12 +36,6 @@ It enables account holders to define categories, funds, and campaigns; collect p
 
 ---
 
-## What Wazi Is Not
-
-Wazi is not a wallet, bank, lender, full accounting suite, CRM, inventory system, POS replacement, school-management system, church-management system, or tax-filing system. It does not hold, pool, or settle funds on behalf of account holders.
-
----
-
 ## Operating Modes
 
 ### Standalone Mode
