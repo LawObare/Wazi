@@ -9,7 +9,6 @@ It enables account holders to define categories, funds, and campaigns; collect p
 ## Table of Contents
 
 - [What Wazi Does](#what-wazi-does)
-- [What Wazi Is Not](#what-wazi-is-not)
 - [Operating Modes](#operating-modes)
 - [Payment Flow](#payment-flow)
 - [Tech Stack](#tech-stack)
